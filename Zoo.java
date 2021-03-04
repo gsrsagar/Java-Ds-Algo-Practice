@@ -1,4 +1,10 @@
 public class Zoo {
+
+    public int foo(int n){
+        if(n<1) return n;
+        
+        return 0;
+    }
     public static void main(String[] args) {
         Animal animal = new Animal(450, 6, "zirafee");
         Animal animal2;

@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "Ds.src.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Java_Practice_VSCode_c02448e7>(1)",
+            "request": "launch",
+            "mainClass": "Ds.src.linkedlist.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "Ds.src.queues.Main",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Java_Practice_VSCode_c02448e7>(2)",
+            "request": "launch",
+            "mainClass": "Ds.src.searching.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Java_Practice_VSCode_c02448e7>(3)",
+            "request": "launch",
+            "mainClass": "Ds.src.sorts.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Java_Practice_VSCode_c02448e7>(4)",
+            "request": "launch",
+            "mainClass": "Ds.src.trees.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickStart<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sample<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Zoo<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "Zoo",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TcsQuestion<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "tcs_prepare.TcsQuestion",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-mianfun<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "tcs_prepare.mianfun",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practice<Java_Practice_VSCode_c02448e7>",
+            "request": "launch",
+            "mainClass": "tcs_prepare.practice",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        }
+    ]
+}

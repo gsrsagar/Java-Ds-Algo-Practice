@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringCompression",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.StringCompression",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReachingPoints",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.ReachingPoints",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveArrayElement",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.RemoveArrayElement",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorsOfNumber",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.FactorsOfNumber",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchEleInAtleastTwoArrays",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.SearchEleInAtleastTwoArrays",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SquareRoot",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.SquareRoot",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CoinChangeProblem",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.CoinChangeProblem",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstRepeatElementInArray",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.FirstRepeatElementInArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HouseThiefProblem",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.HouseThiefProblem",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Ds.src.Day1.App",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoOfWords",
+            "request": "launch",
+            "mainClass": "Ds.src.codingbootcamp.NoOfWords",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveDuplicateWordsInString",
+            "request": "launch",
+            "mainClass": "Ds.src.codingbootcamp.RemoveDuplicateWordsInString",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - app",
+            "request": "launch",
+            "mainClass": "Ds.src.codingbootcamp.app",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "Ds.src.heaps.Application",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"

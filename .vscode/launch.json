@@ -6,6 +6,223 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BuildBST_Using_In_And_PreOrders",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.BuildBST_Using_In_And_PreOrders",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPermutation",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.StringPermutation",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwapTwoStringsWithOut_Third_Variable",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.SwapTwoStringsWithOut_Third_Variable",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Longest_Sub_Array_WithOut_Duplicates",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Longest_Sub_Array_WithOut_Duplicates",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindPercOfAll_Digits_Nums_SpecialChars",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.FindPercOfAll_Digits_Nums_SpecialChars",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringToInt_ViceVersa",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.StringToInt_ViceVersa",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reverse_String_By_Reserving_Spaces",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Reverse_String_By_Reserving_Spaces",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Check_Rotation_Of_String",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Check_Rotation_Of_String",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Remove_whitespaces_from_string",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Remove_whitespaces_from_string",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReverse_Using_Recursion",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.StringReverse_Using_Recursion",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Count_no_of_occurences_of_a_character",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Count_no_of_occurences_of_a_character",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Count_No_of_Words_In_String",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Count_No_of_Words_In_String",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongSubStrWIthoutRepChars",
+            "request": "launch",
+            "mainClass": "Ds.src.codingbootcamp.LongSubStrWIthoutRepChars",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DetectCycleInLinkedList",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.DetectCycleInLinkedList",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OrderlyQueue",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.OrderlyQueue",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClimbingStairs",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.ClimbingStairs",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinSizeSubArray",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.MinSizeSubArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LetterCombinationsOfPhNmbr",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.LetterCombinationsOfPhNmbr",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateArray",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.RotateArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestTimeToBuySell",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Mock_Practice.BestTimeToBuySell",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.Solution",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FractionAdditionSub",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.FractionAdditionSub",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GameOfLife",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.GameOfLife",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HighFive",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.HighFive",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueReversalUsingRecursion",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.QueueReversalUsingRecursion",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseQueueTillKthElement",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.ReverseQueueTillKthElement",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalanceParanthesis",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.BalanceParanthesis",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckPalindromeInLinkedList",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.CheckPalindromeInLinkedList",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NthNodeFromEndOfLinkedList",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.NthNodeFromEndOfLinkedList",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReverseUsingStack",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.StringReverseUsingStack",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InfixToPostFix",
+            "request": "launch",
+            "mainClass": "Ds.src.Day2.InfixToPostFix",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringCompression",
             "request": "launch",
             "mainClass": "Ds.src.Day1.StringCompression",

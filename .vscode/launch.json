@@ -6,6 +6,209 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Union_InterSection_Of_Sorted_Arrays",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.Union_InterSection_Of_Sorted_Arrays",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveNegativeElementsInOneSideOfArray",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.MoveNegativeElementsInOneSideOfArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortArrayOf012_Without_SortAlgo",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.SortArrayOf012_Without_SortAlgo",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthMaxELement_MinElement",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.KthMaxELement_MinElement",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_Min_Element_In_Array",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.Max_Min_Element_In_Array",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseArray",
+            "request": "launch",
+            "mainClass": "Ds.src.Final450.Arrays.ReverseArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RepeatrChars",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Second_Assessment.RepeatrChars",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfKFromConsecutiveNaturalNumbers",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Second_Assessment.SumOfKFromConsecutiveNaturalNumbers",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PairsOfKSum",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Second_Assessment.PairsOfKSum",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinLengthSubArray",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.MinLengthSubArray",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecondRepeatSubString",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Second_Assessment.SecondRepeatSubString",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubStringOfSameChars",
+            "request": "launch",
+            "mainClass": "Ds.src.DAA_Second_Assessment.LongestSubStringOfSameChars",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TextJustification",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.TextJustification",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PangramString",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.PangramString",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumericalToRoman",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.NumericalToRoman",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringOfTwo",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.StringOfTwo",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestLessThanGiven",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.LargestLessThanGiven",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RepeatingDecimal",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.RepeatingDecimal",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Traveller",
+            "request": "launch",
+            "mainClass": "Ds.src.DAAAssessment.Traveller",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SamplePractice",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.SamplePractice",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Sample",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberFactor",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.NumberFactor",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String_BY_K",
+            "request": "launch",
+            "mainClass": "Ds.src.sorts.String_BY_K",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Check_all_leafs_are_at_same_level",
+            "request": "launch",
+            "mainClass": "Ds.src.Day3.Check_all_leafs_are_at_same_level",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "Ds.src.sorts.SelectionSort",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSort",
+            "request": "launch",
+            "mainClass": "Ds.src.sorts.InsertionSort",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "Ds.src.sorts.BubbleSort",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Words_WithoutSpecialChars",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.Words_WithoutSpecialChars",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BST",
+            "request": "launch",
+            "mainClass": "Ds.src.practice.BST",
+            "projectName": "Java_Practice_VSCode_c02448e7"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BuildBST_Using_In_And_PreOrders",
             "request": "launch",
             "mainClass": "Ds.src.practice.BuildBST_Using_In_And_PreOrders",

@@ -2,7 +2,6 @@ package Ds.src.trees;
 
 import java.util.Stack;
 
-import javax.print.event.PrintEvent;
 
 /**
  * BST
@@ -27,7 +26,7 @@ public class BST {
     }
     
     public void displayTree() {
-        Stack globalStack = new Stack();
+        Stack<Node> globalStack = new Stack<>();
         globalStack.push(root);
         int size=(int)Math.pow(2, (double)this.getLevel());
         int nBlanks =size*2;
@@ -35,7 +34,7 @@ public class BST {
         System.out.println("......................................................");
         
         while(isRowEmpty==false) {
-            Stack localStack = new Stack();
+            Stack<Node>  localStack = new Stack<>();
             isRowEmpty = true;
             for(int j=0; j<nBlanks; j++) {
                 System.out.print(" ");
@@ -68,9 +67,7 @@ public class BST {
                 globalStack.push( localStack.pop() ); 
             }
         System.out.println( "......................................................");
- 
- }
-       
+    }     
 
 
     public void insert(int key, String value){

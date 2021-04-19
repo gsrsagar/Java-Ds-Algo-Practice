@@ -14,7 +14,7 @@
 * }
 */
 
-package Ds.src.practice;
+package Ds.src.Day3;
 
 import java.util.Arrays;
 

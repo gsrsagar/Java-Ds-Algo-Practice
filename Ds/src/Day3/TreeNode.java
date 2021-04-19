@@ -1,4 +1,4 @@
-package Ds.src.practice;
+package Ds.src.Day3;
 
 public class TreeNode {
          int key;

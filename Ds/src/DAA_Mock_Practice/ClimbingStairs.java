@@ -13,6 +13,6 @@ public class ClimbingStairs {
         return fib(n+1);
     }
     public static void main(String[] args) {
-        System.out.println(climbingStairs(4));
+        System.out.println(climbingStairs(3));
     }   
 }
